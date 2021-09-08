@@ -16,6 +16,7 @@ Patika PostgreSQL 1. Ödev
 4. Soru
 
 ![](/images/4.png)
+
 5. Soru
 
 ![](/images/5.png)
